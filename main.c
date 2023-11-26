@@ -23,6 +23,8 @@ List of assumptions in the program
 Usage of the program
     - In the terminal, run ./final_project.exe test.txt
     The program will use a text file called test.txt
+
+Make sure to install a compiler first
 */
 
 #include<stdio.h>
